@@ -1,0 +1,12 @@
+{
+  "name": "proyecto1",
+  "version": "1.0.0",
+  "description": "mi primer proyecto",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node hola_mundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Exesoft",
+  "license": "ISC"
+}
