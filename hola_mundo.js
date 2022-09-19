@@ -1,6 +1,2 @@
-/* const hola= "hola mundo"
- c onsole.log(`variable ${hola}`)
- */
-
- let h = "hola"
- console.log(h)
+const saludo =  "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo";
+console.log(saludo);
